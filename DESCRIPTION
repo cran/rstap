@@ -1,6 +1,6 @@
 Package: rstap
 Type: Package
-Version: 1.0.2
+Version: 1.0.3
 Title: Spatial Temporal Aggregated Predictor Models via 'stan'
 Description: Estimates previously compiled stap regression models using the 'rstan' package. Users specify models via a custom R syntax with a formula and data.frame plus additional arguments for priors.
 License: GPL (>= 3)
@@ -22,8 +22,8 @@ NeedsCompilation: yes
 RoxygenNote: 6.1.0
 Suggests: testthat, digest, knitr, rmarkdown, pkgdown, fields
 VignetteBuilder: knitr
-Packaged: 2018-12-29 16:59:16 UTC; Adam
+Packaged: 2019-02-06 14:24:02 UTC; Adam
 Author: Adam Peterson [aut, cre]
 Maintainer: Adam Peterson <atpvyc@umich.edu>
 Repository: CRAN
-Date/Publication: 2019-01-03 00:20:03 UTC
+Date/Publication: 2019-02-06 20:30:03 UTC
